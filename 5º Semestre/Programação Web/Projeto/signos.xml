@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio> 
+        <dataFim>20/04</dataFim> 
+        <signoNome>Áries</signoNome> 
+        <descricao>Áries é um signo vibrante, corajoso, impulsivo e cheio de energia, movido pela iniciativa e pelo desejo de liderar e enfrentar desafios.</descricao> 
+    </signo> 
+    <signo>
+        <dataInicio>21/04</dataInicio> 
+        <dataFim>20/05</dataFim> 
+        <signoNome>Touro</signoNome> 
+        <descricao>Obstinados e determinados: Taurinos têm uma forte vontade de alcançar seus objetivos e sonhos.</descricao> 
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio> 
+        <dataFim>20/06</dataFim> 
+        <signoNome>Gêmeos</signoNome> 
+        <descricao>Os geminianos são conhecidos por sua natureza comunicativa, curiosa e versátil, apresentando uma personalidade multifacetada que busca constantemente novas experiências e estímulos.</descricao> 
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio> 
+        <dataFim>20/07</dataFim> 
+        <signoNome>Câncer</signoNome> 
+        <descricao>Câncer é um signo emocional, sensível e protetor, guiado pela intuição e pelo desejo de segurança em todas as áreas da vida.</descricao> 
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio> 
+        <dataFim>20/08</dataFim> 
+        <signoNome>Leão</signoNome> 
+        <descricao>Energia e Dinamismo: Leoninos são conhecidos por serem enérgicos e dinâmicos, sempre prontos para liderar.</descricao> 
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio> 
+        <dataFim>20/09</dataFim> 
+        <signoNome>Virgem</signoNome> 
+        <descricao>O signo de Virgem é conhecido por sua personalidade analítica, prática e perfeccionista, regido pelo planeta Mercúrio, e é caracterizado por uma busca constante pela eficiência e organização.</descricao> 
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio> 
+        <dataFim>20/10</dataFim> 
+        <signoNome>Libra</signoNome> 
+        <descricao>Librianos são equilibrados, sociáveis, diplomáticos e apreciadores da beleza, mas podem ser indecisos e excessivamente preocupados com a harmonia.</descricao> 
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio> 
+        <dataFim>20/11</dataFim> 
+        <signoNome>Escorpião</signoNome> 
+        <descricao>A personalidade do signo de Escorpião é marcada por características intensas e profundas. Os escorpianos são conhecidos por serem apaixonados, autossuficientes e misteriosos.</descricao> 
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio> 
+        <dataFim>20/11</dataFim> 
+        <signoNome>Sagitário</signoNome> 
+        <descricao>O signo de Sagitário é conhecido por sua personalidade otimista, aventureira e sociável, buscando constantemente novas experiências e conhecimentos.</descricao> 
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio> 
+        <dataFim>20/01</dataFim> 
+        <signoNome>Capricórnio</signoNome> 
+        <descricao>As pessoas do signo de Capricórnio são conhecidas por sua responsabilidade, disciplina e ambição, buscando sempre alcançar seus objetivos com determinação e paciência.</descricao> 
+    </signo>
+    <signo>
+        <dataInicio>20/01</dataInicio> 
+        <dataFim>20/02</dataFim> 
+        <signoNome>Aquário</signoNome> 
+        <descricao>Aquário é conhecido por sua personalidade inovadora, independente e humanitária, valorizando a liberdade e a criatividade em todas as suas interações.</descricao> 
+    </signo>
+    <signo>
+        <dataInicio>19/02</dataInicio> 
+        <dataFim>20/03</dataFim> 
+        <signoNome>Peixes</signoNome> 
+        <descricao>Piscianos são profundamente intuitivos e muitas vezes têm uma conexão espiritual forte.</descricao> 
+    </signo>
+</signos>
